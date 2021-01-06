@@ -1,0 +1,7 @@
+Script started on Thu 19 Nov 2020 10:49:53 PM HST
+]0;jpaino@uhx02:~/homework8[?1034huhx02:/home/j/jpaino/homework8% g++ -ansi -pedantic-errors -Wall -c homework8.c[[[K[Kpp
+]0;jpaino@uhx02:~/homework8uhx02:/home/j/jpaino/homework8% g++ -o homework8 homework8.o
+]0;jpaino@uhx02:~/homework8uhx02:/home/j/jpaino/homework8% exit
+exit
+
+Script done on Thu 19 Nov 2020 10:50:27 PM HST

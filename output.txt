@@ -1,0 +1,37 @@
+Script started on Thu 19 Nov 2020 10:56:30 PM HST
+]0;jpaino@uhx02:~/homework8[?1034huhx02:/home/j/jpaino/homework8% ./homework8
+Generate a table of Kelvin vs. Fahrenheit conversions.
+Length of table will be based on Kelvin temperature that you provide, presenting Kelvin values of increments of 50 Kelvin
+Enter a maximum Kelvin output: 
+-750
+INVALID INPUT.  Enter a new value:
+test
+NOT A NUMBER.  Enter a new value:
+1087
+   KELVIN               FAHRENHEIT
+     0.00                  -459.67
+    50.00                  -369.67
+   100.00                  -279.67
+   150.00                  -189.67
+   200.00                   -99.67
+   250.00                    -9.67
+   300.00                    80.33
+   350.00                   170.33
+   400.00                   260.33
+   450.00                   350.33
+   500.00                   440.33
+   550.00                   530.33
+   600.00                   620.33
+   650.00                   710.33
+   700.00                   800.33
+   750.00                   890.33
+   800.00                   980.33
+   850.00                  1070.33
+   900.00                  1160.33
+   950.00                  1250.33
+  1000.00                  1340.33
+  1050.00                  1430.33
+]0;jpaino@uhx02:~/homework8uhx02:/home/j/jpaino/homework8% exit
+exit
+
+Script done on Thu 19 Nov 2020 10:57:44 PM HST
